@@ -1,0 +1,4 @@
+﻿1 - Create inventory options like CONSUME or DROP (FINISHED) 11-07-2016 18:36
+2 - Make fighting system functional with attack
+3 - Create spells and spells pickup
+4 - Make spells work in fights

@@ -1,0 +1,20 @@
+﻿╔═══════╗                       ╔══════════════╗
+║ ICONS:║                       ║Controls:     ║
+╚═══════╝                       ║W: Up         ║
+ICONS:                          ║S: Down       ║
+P - Player                      ║A: Left       ║
+                                ║D: Right      ║
+* - Item On The Ground          ║I: Inventory  ║
+                                ╚══════════════╝
+╔══════════╗
+║ ACRONYMS:║
+╚══════════╝
+VIT - Vitality - determines how much damage your hero can withstand;
+STR - Strength - Determines the raw damage input you deal with attack;
+DEF - Defense - Determines the raw defense;
+MAG - Magic - Determines the raw magic damage multiplier for your spells;
+EXP - Experience - Progress on leveling up;
+LVL - Level - Your current level - Improved stats on level up;
+WGT - Weight - How much you can carry;
+ 
+PRESS F1 TO GO BACK

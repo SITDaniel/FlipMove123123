@@ -1,0 +1,1 @@
+﻿1 - When items exit the screen, they don't respond anymore whenever the player goes over them at later times; (FIXED)
